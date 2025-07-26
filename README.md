@@ -25,7 +25,7 @@ Welcome! This repository documents my journey to become a software engineer. I a
 
 ## Connect
 
-Feel free to follow my progress!
+Feel free to follow my progress on replit - https://replit.com/@24yasina
 
 ---
 
